@@ -1,4 +1,4 @@
-netplotbrain
+# **netplotbrain**
 
 Painlessly plot networks on brains.
 
